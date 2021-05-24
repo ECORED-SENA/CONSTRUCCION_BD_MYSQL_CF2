@@ -1,2 +1,2 @@
 module.exports =
-  'Componente Formativo con un nombre extremadamente largo y extenso'
+  'MySQL Workbench como herramienta visual de diseño y gestión de bases de datos MySQL'
