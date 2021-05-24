@@ -1,8 +1,8 @@
-# **sena-base-2021 v3.0.0**
+# **MySQL Workbench como herramienta visual de diseño y gestión de bases de datos MySQL**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/CONSTRUCCION_BD_MYSQL_CF2/](https://ecored-sena.github.io/CONSTRUCCION_BD_MYSQL_CF2/)
 
 #
 
