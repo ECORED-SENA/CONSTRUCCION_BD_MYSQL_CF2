@@ -18,7 +18,7 @@
 
     .crd.crd--gray.mb-5
       .row.justify-content-center.align-items-center
-        .col-auto.mb-4.mb-lg       
+        .col-auto.mb-4.mb-lg-0      
           img(src="@/assets/tema_2/coding.svg", alt="alt", style="width:120px")         
         .col-12.col-lg
           p(style="color:white;").mb-4 Lo primero es descargar el servidor de base de datos MySQL, para este caso se utilizará la versión de comunidad la cual se puede descargar del link oficial a través de cualquier navegador de internet y escribiendo la siguiente URL: 
@@ -29,6 +29,7 @@
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
                   p MySQL - The world´s most popular open source database
+          .row
             .col-auto
               a.anexo(href="https://profile.oracle.com/myprofile/account/create-account.jspx" target="_blank")
                 .anexo__icono
@@ -38,8 +39,8 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/m-h80fyUIiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Video en producción  
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/aAk84iUplHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Video en producción       
 
     .hr_blank
 

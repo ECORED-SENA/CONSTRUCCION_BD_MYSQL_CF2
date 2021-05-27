@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'MySQL Workbench como herramienta visual de diseño y gestión de bases de datos MySQL',
     descripcionCurso:
-      'En la actualidad, un gran porcentaje de software y aplicativos que se encuentran en el mercado, hacen uso de bases de datos con MySQL. Además, es de vital importancia contar con una gestión eficiente de la gran cantidad de información que se genera diariamente a través de múltiples dispositivos, pues las bases de datos bien gestionadas marcan una ventaja competitiva entre las diferentes empresas.',
+      'En la actualidad, un gran porcentaje de software y aplicativos que se encuentran en el mercado, hacen uso de bases de datos con MySQL. Además, es de vital importancia contar con una gestión eficiente de la gran cantidad de información que se genera diariamente a través de múltiples dispositivos, pues las bases de datos bien gestionadas marcan una ventaja competitiva entre las diferentes empresas.</br></br>Por esto es importante la utilización de herramientas visuales que potencien el trabajo con las bases de datos relacionales MySQL; para este ejercicio se utilizará Workbench debido a su facilidad de uso, alta demanda y empleo en la gestión y administración de las bases de datos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -64,12 +64,12 @@ export default {
       },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      //{
+      //nombreRuta: 'actividad',
+      //icono: 'far fa-question-circle',
+      //titulo: 'Actividad didáctica',
+      //desarrolloContenidos: true,
+      //},
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -111,19 +111,31 @@ export default {
       },
       {
         nombre: 'Henry Eduardo Bastidas Paruma',
-        cargo: 'Instructor',
+        cargo: 'Experto temático - Instructor',
         centro: 'Centro de Teleinformática y Producción industrial',
         regional: 'Regional Cauca',
       },
       {
+        nombre: 'Tania Yaneth Ramírez Benítez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
+      {
         nombre: 'Gloria Esperanza Ortiz Russi',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora y evaluadora instruccional',
         centro: 'Centro de Diseño y Metrología',
         regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
-        cargo: 'Corrector de estilo',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Martha Isabel Martínez Vargas',
+        cargo: 'Corrección de estilo',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
@@ -139,7 +151,19 @@ export default {
       },
       {
         nombre: ['Carlos Julian Ramirez Benitez'],
-        cargo: 'Diseño web y Producción Audiovisual',
+        cargo: 'Diseño web',
+      },
+      {
+        nombre: [
+          'Carlos Eduardo Garavito ',
+          'Carolina Tamayo',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'Ludwyng Corzo',
+          'Víctor Cárdenas',
+          'Wilson Andrés Arenales Cáceres',
+          'Zuleidy Maria Ruiz Torres',
+        ],
+        cargo: 'Producción Audiovisual',
       },
       {
         nombre: 'Daniel Ricardo Mutis Gómez',
