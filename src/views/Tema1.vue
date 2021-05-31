@@ -18,7 +18,11 @@
       br
       | A continuación, encontrarás las instrucciones, enlaces de descarga y de creación de perfiles requeridos para hacer uso de este software.
 
-    h5.mb-5 #[span.roundNumber 1] Descarga MySQL Community Server 
+    .row.align-items-center.mb-5
+      .col-auto
+        span.roundNumber 1
+      .col
+        h5.mb-0 Descarga MySQL Community Server     
 
     figure.mb-5
       .video
@@ -37,8 +41,13 @@
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
                   p MySQL - The world´s most popular open source database
-          p(style="color:white; font-size:10pt;") *Posiblemente requieras una cuanta ORACLE, en ese caso dirígete al paso 2
-    h5.mb-5 #[span.roundNumber 2] Crea una cuenta de acceso ORACLE
+          p(style="color:white; font-size:10pt;") *Posiblemente requieras una cuenta ORACLE, en ese caso dirígete al paso 2
+
+    .row.align-items-center.mb-5
+      .col-auto
+        span.roundNumber 2
+      .col
+        h5.mb-0 Crea una cuenta de acceso ORACLE    
 
     .crd.crd--gray.mb-5
       .row.justify-content-center.align-items-center

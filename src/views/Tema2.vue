@@ -19,7 +19,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/XHS0TSshkjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Software necesario para el diseño y gestión de bases de datos MySQL Workbench
+      
 
     .crd.crd--gray
       .row.justify-content-center.align-items-center
