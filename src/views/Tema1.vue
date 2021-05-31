@@ -33,7 +33,7 @@
         .col-auto.mb-4.mb-lg-0      
           img(src="@/assets/tema_2/coding.svg", alt="alt", style="width:120px")         
         .col-12.col-lg
-          p(style="color:white;").mb-4 Da clic en el siguiente enlace y sigue atentamente los pasos para su instalación*. 
+          p(style="color:white;").mb-4 Da clic en el siguiente enlace y sigue atentamente los pasos para su instalación. 
           .row
             .col-auto.mb-4
               a.anexo(href="https://dev.mysql.com/downloads/mysql/ " target="_blank")
@@ -41,7 +41,7 @@
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
                   p MySQL - The world´s most popular open source database
-          p(style="color:white; font-size:10pt;") *Posiblemente requieras una cuenta ORACLE, en ese caso dirígete al paso 2
+          p(style="color:white; font-size:10pt;") Posiblemente requieras una cuenta ORACLE, en ese caso dirígete al paso 2
 
     .row.align-items-center.mb-5
       .col-auto

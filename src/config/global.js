@@ -156,6 +156,10 @@ export default {
         cargo: 'Desarrollo Front-End',
       },
       {
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Revisora de contenidos',
+      },
+      {
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
