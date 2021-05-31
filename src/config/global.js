@@ -26,20 +26,6 @@ export default {
         numero: '1',
         titulo: 'Software necesario y su instalación de MySQL',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-play-circle',
-            numero: '1.1',
-            titulo: 'Proceso de descarga de MySQL Community',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-play-circle',
-            numero: '1.2',
-            titulo: 'Proceso de instalación de MySQL Server Community',
-            hash: 't_1_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
